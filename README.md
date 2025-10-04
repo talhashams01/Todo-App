@@ -20,4 +20,4 @@ With a clean UI and persistent local storage, it’s simple, fast, and distracti
 ---
 
 ### 🔗 Links
-- GitHub: [Repository Link](YOUR_REPO_LINK)
+- GitHub: [Repository Link](https://github.com/talhashams01/Todo-App.git)
